@@ -1,7 +1,12 @@
-# BIG DATA ANLYSIS
-Python basis of Big Data Analysis 
+# python学习
 
-## Step1
-1. numpy learning
-2. pandas learning
-3. marchine algri
+包括：
+1. 可视化
+2. 数据处理
+的学习文件
+
+还包含了：
+1. 微博爬虫
+2. 学校python学习的实验代码
+
+因为之前没有整理，我就暂时存在仓库里面方便下载
